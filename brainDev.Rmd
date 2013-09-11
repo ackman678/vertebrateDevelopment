@@ -1,6 +1,6 @@
 # Comparative Vertebrate Brain Development #
 
-The point of this project is explore the comparative timelines of vertebrate brain development using the graphical capabilities of R.
+The point of this project is explore the comparative timelines of vertebrate brain development.
 
 ## R Markdown notes
 This is an R Markdown document from RStudio. Markdown is a simple formatting syntax for authoring web pages (click the **MD** toolbar button for help on Markdown).

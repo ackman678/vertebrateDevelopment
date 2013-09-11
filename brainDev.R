@@ -1,6 +1,6 @@
 # Comparative Vertebrate Brain Development #
 
-#The point of this project is explore the comparative timelines of vertebrate brain development using the graphical capabilities of R.
+#The point of this project is explore the comparative timelines of vertebrate brain development.
 
 # Import dataset
 #Copy and paste from `brainDevMilestones.xlsx`:  
